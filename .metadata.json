@@ -1,5 +1,9 @@
 [
   {
     "package": "HIPPO"
+  },
+  {
+    "package": "MMVBVS",
+    "oncran": true
   }
 ]

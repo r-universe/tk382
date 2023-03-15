@@ -8,3 +8,8 @@
 	url = https://github.com/tk382/hippo
 	shallow = true
 	registered = true
+[submodule "MMVBVS"]
+	path = MMVBVS
+	url = https://github.com/tk382/mmvbvs
+	shallow = true
+	registered = true
